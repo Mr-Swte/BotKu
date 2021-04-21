@@ -4,7 +4,7 @@ LOCK YOUR PICTURE PROFILE FACEBOOK
 
 ```php
 
-$ cd locked
+$ cd lck
 
 $ python3 -m pip install -r requirements.txt
 
@@ -20,7 +20,6 @@ contact via whatsapp: <a href="http://wa.me/6282249945247/" target="_blank">clic
 # THANKS TO
 
 ```
-
 All Member GhostID
 
 ```
